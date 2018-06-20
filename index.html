@@ -1,0 +1,96 @@
+<html>
+  <head>
+    <title>sorting.js</title>
+    <script type="text/javascript" src='js/lib/jquery-3.3.1.min.js'></script>
+    <script type="text/javascript" src='js/lib/bootstrap.min.js'></script>
+    <script type="text/javascript" src='js/display.js'></script>
+    <script type="text/javascript" src='js/algos.js'></script>
+    <script type="text/javascript" src="js/lib/d3.min.js"></script>
+
+    <link href='css/lib/bootstrap.min.css' rel='stylesheet'>
+    <link href='css/main.css' rel='stylesheet'>
+  </head>
+  <body>
+    <div class='container-fluid'>
+      <div class='row'>
+        <div class='col-xs-3'>
+          <div class='form-group'>
+            <label for='#data-set'>Données</label>
+            <select class='form-control' id='data-set'>
+              <option value='input/small.csv'>Echantillon</option>
+              <option value='input/isere.csv'>Isère</option>
+              <option value='input/FR.csv'>France</option>
+            </select>
+          </div>
+          <div class='form-group'>
+            <label for='#algo-select'>Algorithme</label>
+            <select class='form-control' id='algo-select'>
+              <option value='insert'>Tri par insertion</option>
+              <option value='select'>Tri par sélection</option>
+              <option value='bubble'>Tri à bulles</option>
+              <option value='shell'>Tri de Shell</option>
+              <option value='merge'>Tri par fusion</option>
+              <option value='heap'>Tri par tas</option>
+              <option value='quick'>Tri rapide</option>
+              <option value='quick3'>Tri rapide (3 partitions)</option>
+            </select>
+          </div>
+          <div class='form-group'>
+            <label for='#interval'>Intervale (ms)</label>
+            <input id='interval' class='form-control' type='number' value="100"/>
+          </div>
+          <div class='text-center'>
+            <button class='btn btn-lg btn-primary' id='start-btn'>Trier</button>
+          </div>
+        </div>
+        <div class='col-xs-9' id='canvas-div'>
+          <div width="800px" id="main-canvas">
+            <svg></svg>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+
+
+      var csvData = null;
+      var timer = null;
+
+      $('#start-btn').click(function() {
+
+        csvData = null;
+        displayBuffer = [];
+
+        d3.dsv(";", $('#data-set').val(), function(d) {
+          return {
+            num_dpt: +d.num_dpt, // convert "Year" column to Date
+            latitude: +d.latitude,
+            longitude: +d.longitude,
+            nom_ddpt: d.nom_ddpt,
+            nom_commune: d.nom_commune,
+            codes_postaux: d.codes_postaux,
+            dist: distanceFromGrenoble(d),
+            str: d.nom_commune + " ("+d.num_dpt+") " + Math.floor(distanceFromGrenoble(d)) + "km"
+          };
+          }).then(function(data) {
+            csvData = filterData(data);
+            console.log(csvData);
+
+            setupDisplay();
+
+            // Sort csvData
+            var algo = $( "#algo-select" ).val();
+            sort(algo,csvData);
+
+            // Start the animated display
+            var interval = parseInt($( "#interval" ).val());
+            clearInterval(timer);
+            timer = window.setInterval(function(){ oneStep(); }, interval);
+
+        });
+      });
+
+    </script>
+  </body>
+</html>

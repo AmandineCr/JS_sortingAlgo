@@ -1,0 +1,538 @@
+chef_lieu;num_dpt;nom_ddpt;pref;num_circ;nom_commune;codes_postaux;code_insee;latitude;longitude;dist
+Lyon;38;Isère;Grenoble;1;Bernin;38190;38039;45.266667;5.866667;1.42
+Lyon;38;Isère;Grenoble;1;Biviers;38330;38045;45.233333;5.8;1.18
+Lyon;38;Isère;Grenoble;1;Corenc;38700;38126;45.216667;5.766667;1.05
+Lyon;38;Isère;Grenoble;1;Grenoble;38000;38185;45.166667;5.716667;0.87
+Lyon;38;Isère;Grenoble;1;La Tronche;38700;38516;45.2;5.733333;1.32
+Lyon;38;Isère;Grenoble;1;Le Sappey-en-Chartreuse;38700;38471;45.266667;5.783333;1.13
+Lyon;38;Isère;Grenoble;1;Meylan;38240;38229;45.233333;5.783333;1.12
+Lyon;38;Isère;Grenoble;1;Montbonnot-Saint-Martin;38330;38249;45.233333;5.8;1.18
+Lyon;38;Isère;Grenoble;1;Saint-Ismier;38330;38397;45.25;5.833333;1.5
+Lyon;38;Isère;Grenoble;1;Saint-Nazaire-les-Eymes;38330;38431;;;
+Lyon;38;Isère;Grenoble;2;Bresson;38320;38057;45.133333;5.75;0.99
+Lyon;38;Isère;Grenoble;2;Brié-et-Angonnes;38320;38059;45.116667;5.8;1.67
+Lyon;38;Isère;Grenoble;2;Champagnier;38800;38068;45.1;5.716667;1.15
+Lyon;38;Isère;Grenoble;2;Champ-sur-Drac;38560;38071;45.066667;5.733333;1.31
+Lyon;38;Isère;Grenoble;2;Chamrousse;38410;38567;45.133333;5.9;1.58
+Lyon;38;Isère;Grenoble;2;Echirolles;38130;38151;45.133333;5.716667;0.98
+Lyon;38;Isère;Grenoble;2;Eybens;38320;38158;45.15;5.75;1.11
+Lyon;38;Isère;Grenoble;2;Gières;38610;38179;45.183333;5.783333;1.12
+Lyon;38;Isère;Grenoble;2;Herbeys;38320;38188;45.133333;5.783333;1.12
+Lyon;38;Isère;Grenoble;2;Jarrie;38560;38200;45.116667;5.766667;1.07
+Lyon;38;Isère;Grenoble;2;Laffrey;38220;38203;45.033333;5.766667;1.47
+Lyon;38;Isère;Grenoble;2;Montchaboud;38220;38252;45.1;5.766667;1.15
+Lyon;38;Isère;Grenoble;2;Notre-Dame-de-Commiers;38450;38277;45.016667;5.7;1.56
+Lyon;38;Isère;Grenoble;2;Notre-Dame-de-Mésage;38220;38279;45.066667;5.766667;1.31
+Lyon;38;Isère;Grenoble;2;Poisat;38320;38309;45.15;5.766667;1.05
+Lyon;38;Isère;Grenoble;2;Saint-Barthélemy-de-Séchilienne;38220;38364;;;
+Lyon;38;Isère;Grenoble;2;Saint-Georges-de-Commiers;38450;38388;45.033333;5.7;1.47
+Lyon;38;Isère;Grenoble;2;Saint-Jean-de-Vaulx;38220;38402;45.016667;5.75;1.56
+Lyon;38;Isère;Grenoble;2;Saint-Martin-d'Hères;38400;38421;45.166667;5.766667;1.05
+Lyon;38;Isère;Grenoble;2;Saint-Pierre-de-Mésage;38220;38445;45.05;5.766667;1.39
+Lyon;38;Isère;Grenoble;2;Séchilienne;38220;38478;45.066667;5.833333;1.31
+Lyon;38;Isère;Grenoble;2;Vaulnaveys-le-Bas;38410;38528;45.1;5.816667;1.24
+Lyon;38;Isère;Grenoble;2;Vaulnaveys-le-Haut;38410;38529;45.116667;5.8;1.18
+Lyon;38;Isère;Grenoble;2;Venon;38610;38533;45.166667;5.8;1.18
+Lyon;38;Isère;Grenoble;2;Vizille;38220;38562;45.083333;5.766667;1.23
+Lyon;38;Isère;Grenoble;3;Fontaine;38600;38169;45.183333;5.666667;0.74
+Lyon;38;Isère;Grenoble;3;Grenoble;38000;38185;45.166667;5.716667;0.87
+Lyon;38;Isère;Grenoble;3;Noyarey;38360;38281;45.25;5.633333;1.12
+Lyon;38;Isère;Grenoble;3;Sassenage;38360;38474;45.2;5.666667;0.86
+Lyon;38;Isère;Grenoble;3;Veurey-Voroize;38113;38540;45.266667;5.616667;0.5
+Lyon;38;Isère;Grenoble;4;Allemont;38114;38005;;;
+Lyon;38;Isère;Grenoble;4;Ambel;38970;38008;44.816667;5.933333;2.54
+Lyon;38;Isère;Grenoble;4;Auris;38142;38020;45.05;6.083333;2.22
+Lyon;38;Isère;Grenoble;4;Autrans;38880;38021;45.166667;5.55;0.82
+Lyon;38;Isère;Grenoble;4;Avignonet;38650;38023;44.95;5.683333;1.88
+Lyon;38;Isère;Grenoble;4;Beaufin;38970;38031;44.783333;5.95;2.7
+Lyon;38;Isère;Grenoble;4;Besse;38142;38040;45.066667;6.166667;2.53
+Lyon;38;Isère;Grenoble;4;Chantelouve;38740;38073;;;
+Lyon;38;Isère;Grenoble;4;Château-Bernard;38650;38090;44.983333;5.583333;1.72
+Lyon;38;Isère;Grenoble;4;Chichilianne;38930;38103;44.816667;5.566667;2.54
+Lyon;38;Isère;Grenoble;4;Cholonge;38220;38106;45;5.8;1.64
+Lyon;38;Isère;Grenoble;4;Claix;38640;38111;45.116667;5.666667;1.07
+Lyon;38;Isère;Grenoble;4;Clavans-en-Haut-Oisans;38142;38112;45.066667;6.15;2.47
+Lyon;38;Isère;Grenoble;4;Clelles;38930;38113;44.833333;5.616667;2.46
+Lyon;38;Isère;Grenoble;4;Cognet;38350;38116;44.883333;5.783333;2.21
+Lyon;38;Isère;Grenoble;4;Cordéac;38710;38125;44.833333;5.85;2.46
+Lyon;38;Isère;Grenoble;4;Cornillon-en-Trièves;38710;38127;44.833333;5.7;2.46
+Lyon;38;Isère;Grenoble;4;Corps;38970;38128;44.816667;5.95;2.54
+Lyon;38;Isère;Grenoble;4;Corrençon-en-Vercors;38250;38129;45.033333;5.533333;1.47
+Lyon;38;Isère;Grenoble;4;Engins;38360;38153;45.183333;5.616667;1.02
+Lyon;38;Isère;Grenoble;4;Entraigues;38740;38154;;;
+Lyon;38;Isère;Grenoble;4;Fontaine;38600;38169;45.183333;5.666667;0.74
+Lyon;38;Isère;Grenoble;4;Gresse-en-Vercors;38650;38186;44.9;5.566667;2.13
+Lyon;38;Isère;Grenoble;4;Huez;38750;38191;45.083333;6.05;2.1
+Lyon;38;Isère;Grenoble;4;La Garde;38520;38177;;;
+Lyon;38;Isère;Grenoble;4;Lalley;38930;38204;44.75;5.683333;2.87
+Lyon;38;Isère;Grenoble;4;La Morte;38350;38264;45.033333;5.85;2.03
+Lyon;38;Isère;Grenoble;4;La Motte-d'Aveillans;38770;38265;44.95;5.75;1.88
+Lyon;38;Isère;Grenoble;4;La Motte-Saint-Martin;38770;38266;44.95;5.716667;1.88
+Lyon;38;Isère;Grenoble;4;La Mure;38350;38269;;;
+Lyon;38;Isère;Grenoble;4;Lans-en-Vercors;38250;38205;45.116667;5.583333;1.07
+Lyon;38;Isère;Grenoble;4;La Salette-Fallavaux;38970;38469;44.85;5.983333;2.38
+Lyon;38;Isère;Grenoble;4;La Salle-en-Beaumont;38350;38470;44.866667;5.866667;2.29
+Lyon;38;Isère;Grenoble;4;Lavaldens;38350;38207;44.983333;5.883333;1.72
+Lyon;38;Isère;Grenoble;4;La Valette;38350;38521;;;
+Lyon;38;Isère;Grenoble;4;Lavars;38710;38208;44.85;5.666667;2.38
+Lyon;38;Isère;Grenoble;4;Le Bourg-d'Oisans;38520;38052;45.05;6.033333;2.04
+Lyon;38;Isère;Grenoble;4;Le Freney-d'Oisans;38142;38173;45.033333;6.116667;2.34
+Lyon;38;Isère;Grenoble;4;Le Gua;38450;38187;45.016667;5.616667;1.56
+Lyon;38;Isère;Grenoble;4;Le Monestier-du-Percy;38930;38243;44.8;5.65;2.62
+Lyon;38;Isère;Grenoble;4;Le Périer;38740;38302;44.933333;5.966667;1.97
+Lyon;38;Isère;Grenoble;4;Le Pont-de-Claix;38800;38317;45.116667;5.7;1.07
+Lyon;38;Isère;Grenoble;4;Les Côtes-de-Corps;38970;38132;;;
+Lyon;38;Isère;Grenoble;4;Livet-et-Gavet;38220;38212;45.1;5.933333;2.06
+Lyon;38;Isère;Grenoble;4;Marcieu;38350;38217;44.916667;5.683333;2.1
+Lyon;38;Isère;Grenoble;4;Mayres-Savel;38350;38224;;;
+Lyon;38;Isère;Grenoble;4;Méaudre;38112;38225;45.133333;5.533333;0.98
+Lyon;38;Isère;Grenoble;4;Mens;38710;38226;44.816667;5.75;2.54
+Lyon;38;Isère;Grenoble;4;Miribel-Lanchâtre;38450;38235;44.966667;5.616667;1.8
+Lyon;38;Isère;Grenoble;4;Mizoën;38142;38237;45.05;6.133333;2.4
+Lyon;38;Isère;Grenoble;4;Monestier-d'Ambel;38970;38241;44.783333;5.933333;2.7
+Lyon;38;Isère;Grenoble;4;Monestier-de-Clermont;38650;38242;44.9;5.633333;2.13
+Lyon;38;Isère;Grenoble;4;Mont-de-Lans;38860;38253;45.033333;6.133333;2.4
+Lyon;38;Isère;Grenoble;4;Monteynard;38770;38254;44.966667;5.7;1.8
+Lyon;38;Isère;Grenoble;4;Nantes-en-Ratier;38350;38273;;;
+Lyon;38;Isère;Grenoble;4;Notre-Dame-de-Vaux;38144;38280;44.983333;5.75;1.72
+Lyon;38;Isère;Grenoble;4;Oris-en-Rattier;38350;38283;44.916667;5.866667;2.05
+Lyon;38;Isère;Grenoble;4;Ornon;38520;38285;45.05;5.983333;1.85
+Lyon;38;Isère;Grenoble;4;Oulles;38520;38286;45.083333;5.983333;1.85
+Lyon;38;Isère;Grenoble;4;Oz;38114;38289;45.133333;6.05;2.1
+Lyon;38;Isère;Grenoble;4;Pellafol;38970;38299;44.8;5.916667;2.62
+Lyon;38;Isère;Grenoble;4;Percy;38930;38301;;;
+Lyon;38;Isère;Grenoble;4;Pierre-Châtel;38119;38304;44.95;5.766667;1.88
+Lyon;38;Isère;Grenoble;4;Ponsonnas;38350;38313;44.883333;5.8;2.21
+Lyon;38;Isère;Grenoble;4;Prébois;38710;38321;44.783333;5.7;2.7
+Lyon;38;Isère;Grenoble;4;Prunières;38350;38326;44.883333;5.766667;2.21
+Lyon;38;Isère;Grenoble;4;Quet-en-Beaumont;38970;38329;44.833333;5.866667;2.46
+Lyon;38;Isère;Grenoble;4;Roissard;38650;38342;44.883333;5.633333;2.21
+Lyon;38;Isère;Grenoble;4;Saint-Andéol;38650;38355;44.966667;5.55;1.8
+Lyon;38;Isère;Grenoble;4;Saint-Arey;38350;38361;44.866667;5.733333;2.29
+Lyon;38;Isère;Grenoble;4;Saint-Baudille-et-Pipet;38710;38366;44.783333;5.766667;2.7
+Lyon;38;Isère;Grenoble;4;Saint-Christophe-en-Oisans;38520;38375;44.966667;6.183333;2.59
+Lyon;38;Isère;Grenoble;4;Sainte-Luce;38970;38414;44.85;5.916667;2.38
+Lyon;38;Isère;Grenoble;4;Saint-Guillaume;38650;38391;44.95;5.583333;1.88
+Lyon;38;Isère;Grenoble;4;Saint-Honoré;38350;38396;44.933333;5.816667;1.97
+Lyon;38;Isère;Grenoble;4;Saint-Jean-d'Hérans;38710;38403;44.85;5.766667;2.38
+Lyon;38;Isère;Grenoble;4;Saint-Laurent-en-Beaumont;38350;38413;44.883333;5.85;2.21
+Lyon;38;Isère;Grenoble;4;Saint-Martin-de-Clelles;38930;38419;44.85;5.616667;2.38
+Lyon;38;Isère;Grenoble;4;Saint-Martin-de-la-Cluze;38650;38115;;;
+Lyon;38;Isère;Grenoble;4;Saint-Maurice-en-Trièves;38930;38424;44.75;5.666667;2.87
+Lyon;38;Isère;Grenoble;4;Saint-Michel-en-Beaumont;38350;38428;44.866667;5.9;2.29
+Lyon;38;Isère;Grenoble;4;Saint-Michel-les-Portes;38650;38429;44.866667;5.6;2.29
+Lyon;38;Isère;Grenoble;4;Saint-Nizier-du-Moucherotte;38250;38433;45.166667;5.633333;1.61
+Lyon;38;Isère;Grenoble;4;Saint-Paul-de-Varces;38760;38436;45.066667;5.633333;1.31
+Lyon;38;Isère;Grenoble;4;Saint-Paul-lès-Monestier;38650;38438;44.933333;5.633333;1.97
+Lyon;38;Isère;Grenoble;4;Saint-Pierre-de-Méaroz;38350;38444;44.883333;5.816667;2.21
+Lyon;38;Isère;Grenoble;4;Saint-Sébastien;38710;38456;44.85;5.8;2.38
+Lyon;38;Isère;Grenoble;4;Saint-Théoffrey;38119;38462;44.983333;5.766667;1.72
+Lyon;38;Isère;Grenoble;4;Seyssinet-Pariset;38170;38485;45.166667;5.65;0.82
+Lyon;38;Isère;Grenoble;4;Seyssins;38180;38486;45.15;5.683333;0.9
+Lyon;38;Isère;Grenoble;4;Siévoz;38350;38489;44.9;5.833333;2.13
+Lyon;38;Isère;Grenoble;4;Sinard;38650;38492;44.95;5.65;1.88
+Lyon;38;Isère;Grenoble;4;Sousville;38350;38497;;;
+Lyon;38;Isère;Grenoble;4;Susville;38350;38499;;;
+Lyon;38;Isère;Grenoble;4;Treffort;38650;38513;;;
+Lyon;38;Isère;Grenoble;4;Tréminis;38710;38514;44.75;5.766667;2.87
+Lyon;38;Isère;Grenoble;4;Valbonnais;38740;38518;44.9;5.9;2.13
+Lyon;38;Isère;Grenoble;4;Valjouffrey;38740;38522;;;
+Lyon;38;Isère;Grenoble;4;Varces-Allières-et-Risset;38760;38524;;;
+Lyon;38;Isère;Grenoble;4;Vaujany;38114;38527;45.15;6.083333;2.22
+Lyon;38;Isère;Grenoble;4;Vénosc;38520;38534;44.983333;6.116667;2.34
+Lyon;38;Isère;Grenoble;4;Vif;38450;38545;45.05;5.666667;1.39
+Lyon;38;Isère;Grenoble;4;Villard-de-Lans;38250;38548;45.066667;5.55;1.31
+Lyon;38;Isère;Grenoble;4;Villard-Notre-Dame;38520;38549;45.016667;6.05;2.1
+Lyon;38;Isère;Grenoble;4;Villard-Reculas;38114;38550;45.1;6.033333;2.04
+Lyon;38;Isère;Grenoble;4;Villard-Reymond;38520;38551;45.033333;6.016667;1.97
+Lyon;38;Isère;Grenoble;4;Villard-Saint-Christophe;38119;38552;44.966667;5.8;1.8
+Lyon;38;Isère;Grenoble;5;Allevard;38580;38006;45.4;6.066667;2.16
+Lyon;38;Isère;Grenoble;5;Barraux;38530;38027;45.433333;5.983333;1.85
+Lyon;38;Isère;Grenoble;5;Chamrousse;38410;38567;45.133333;5.9;1.58
+Lyon;38;Isère;Grenoble;5;Chapareillan;38530;38075;45.466667;5.966667;1.79
+Lyon;38;Isère;Grenoble;5;Charancieu;38490;38080;45.516667;5.566667;0.9
+Lyon;38;Isère;Grenoble;5;Crolles;38190;38140;45.283333;5.883333;1.48
+Lyon;38;Isère;Grenoble;5;Domène;38420;38150;45.2;5.833333;1.3
+Lyon;38;Isère;Grenoble;5;Entre-deux-Guiers;38380;38155;45.433333;5.75;0.99
+Lyon;38;Isère;Grenoble;5;Fontanil-Cornillon;38120;38170;45.25;5.666667;0.92
+Lyon;38;Isère;Grenoble;5;Froges;38190;38175;45.266667;5.916667;1.61
+Lyon;38;Isère;Grenoble;5;Goncelin;38570;38181;45.333333;5.983333;1.85
+Lyon;38;Isère;Grenoble;5;Hurtières;38570;38192;45.283333;5.966667;1.79
+Lyon;38;Isère;Grenoble;5;La Bâtie-Divisin;38490;38028;45.5;5.6;1.34
+Lyon;38;Isère;Grenoble;5;La Buissière;38530;38062;45.4;5.983333;1.85
+Lyon;38;Isère;Grenoble;5;La Chapelle-du-Bard;38580;38078;45.416667;6.1;2.28
+Lyon;38;Isère;Grenoble;5;La Combe-de-Lancey;38190;38120;45.233333;5.9;1.55
+Lyon;38;Isère;Grenoble;5;La Ferrière;38580;38163;45.316667;6.083333;2.22
+Lyon;38;Isère;Grenoble;5;La Flachère;38530;38166;;;
+Lyon;38;Isère;Grenoble;5;La Pierre;38570;38303;45.291667;5.95;-1
+Lyon;38;Isère;Grenoble;5;La Terrasse;38660;38503;45.333333;5.933333;1.67
+Lyon;38;Isère;Grenoble;5;Laval;38190;38206;45.25;5.933333;1.67
+Lyon;38;Isère;Grenoble;5;Le Champ-près-Froges;38190;38070;45.283333;5.933333;1.67
+Lyon;38;Isère;Grenoble;5;Le Cheylas;38570;38100;45.366667;6;1.91
+Lyon;38;Isère;Grenoble;5;Le Moutaret;38580;38268;45.433333;6.083333;2.22
+Lyon;38;Isère;Grenoble;5;Les Adrets;38190;38002;45.266667;5.966667;1.89
+Lyon;38;Isère;Grenoble;5;Le Touvet;38660;38511;45.35;5.95;1.73
+Lyon;38;Isère;Grenoble;5;Le Versoud;38420;38538;45.2;5.866667;1.42
+Lyon;38;Isère;Grenoble;5;Lumbin;38660;38214;45.316667;5.916667;1.61
+Lyon;38;Isère;Grenoble;5;Massieu;38620;38222;45.433333;5.583333;1.45
+Lyon;38;Isère;Grenoble;5;Merlas;38620;38228;45.45;5.666667;0.82
+Lyon;38;Isère;Grenoble;5;Miribel-les-Echelles;38380;38236;45.416667;5.7;1.15
+Lyon;38;Isère;Grenoble;5;Montferrat;38620;38256;45.483333;5.583333;1.32
+Lyon;38;Isère;Grenoble;5;Mont-Saint-Martin;38120;38258;45.266667;5.666667;0.73
+Lyon;38;Isère;Grenoble;5;Morêtel-de-Mailles;38570;38262;45.366667;6;1.91
+Lyon;38;Isère;Grenoble;5;Murianette;38420;38271;45.183333;5.816667;1.55
+Lyon;38;Isère;Grenoble;5;Paladru;38137;38292;45.466667;5.55;0.66
+Lyon;38;Isère;Grenoble;5;Pinsot;38580;38306;45.35;6.1;2.28
+Lyon;38;Isère;Grenoble;5;Pontcharra;38530;38314;45.433333;6.016667;1.97
+Lyon;38;Isère;Grenoble;5;Proveysieux;38120;38325;45.266667;5.7;1.35
+Lyon;38;Isère;Grenoble;5;Quaix-en-Chartreuse;38950;38328;;;
+Lyon;38;Isère;Grenoble;5;Revel;38420;38334;45.183333;5.866667;1.42
+Lyon;38;Isère;Grenoble;5;Saint-Bernard;38660;38367;45.333333;5.9;1.55
+Lyon;38;Isère;Grenoble;5;Saint-Bueil;38620;38372;45.466667;5.683333;1.15
+Lyon;38;Isère;Grenoble;5;Saint-Christophe-sur-Guiers;38380;38376;45.433333;5.766667;1.05
+Lyon;38;Isère;Grenoble;5;Sainte-Agnès;38190;38350;45.233333;5.916667;1.61
+Lyon;38;Isère;Grenoble;5;Saint-Egrève;38120;38382;;;
+Lyon;38;Isère;Grenoble;5;Sainte-Marie-d'Alloix;38660;38417;45.383333;5.966667;1.79
+Lyon;38;Isère;Grenoble;5;Sainte-Marie-du-Mont;38660;38418;45.4;5.933333;1.67
+Lyon;38;Isère;Grenoble;5;Saint-Geoire-en-Valdaine;38620;38386;45.45;5.633333;0.57
+Lyon;38;Isère;Grenoble;5;Saint-Hilaire;38660;38395;45.3;5.883333;1.48
+Lyon;38;Isère;Grenoble;5;Saint-Jean-le-Vieux;38420;38404;45.208333;5.883333;-1
+Lyon;38;Isère;Grenoble;5;Saint-Joseph-de-Rivière;38134;38405;45.366667;5.683333;0.75
+Lyon;38;Isère;Grenoble;5;Saint-Laurent-du-Pont;38380;38412;45.383333;5.733333;0.93
+Lyon;38;Isère;Grenoble;5;Saint-Martin-d'Uriage;38410;38422;45.15;5.833333;1.3
+Lyon;38;Isère;Grenoble;5;Saint-Martin-le-Vinoux;38950;38423;45.2;5.716667;0.87
+Lyon;38;Isère;Grenoble;5;Saint-Maximin;38530;38426;45.416667;6.033333;2.04
+Lyon;38;Isère;Grenoble;5;Saint-Mury-Monteymond;38190;38430;45.216667;5.933333;1.67
+Lyon;38;Isère;Grenoble;5;Saint-Pancrasse;38660;38435;45.283333;5.866667;1.86
+Lyon;38;Isère;Grenoble;5;Saint-Pierre-d'Allevard;38830;38439;45.366667;6.05;2.1
+Lyon;38;Isère;Grenoble;5;Saint-Pierre-de-Chartreuse;38380;38442;45.333333;5.816667;1.89
+Lyon;38;Isère;Grenoble;5;Saint-Pierre-d'Entremont;73670;38446;;;
+Lyon;38;Isère;Grenoble;5;Saint-Sulpice-des-Rivoires;38620;38460;45.466667;5.6;0.85
+Lyon;38;Isère;Grenoble;5;Saint-Vincent-de-Mercuze;38660;38466;45.366667;5.95;1.73
+Lyon;38;Isère;Grenoble;5;Sarcenas;38700;38472;45.266667;5.75;0.99
+Lyon;38;Isère;Grenoble;5;Tencin;38570;38501;45.316667;5.966667;1.79
+Lyon;38;Isère;Grenoble;5;Theys;38570;38504;45.3;6;1.91
+Lyon;38;Isère;Grenoble;5;Velanne;38620;38531;45.483333;5.633333;0.74
+Lyon;38;Isère;Grenoble;5;Villard-Bonnot;38190;38547;45.233333;5.883333;1.48
+Lyon;38;Isère;Grenoble;5;Voissant;38620;38564;45.483333;5.7;1.61
+Lyon;38;Isère;Grenoble;6;Annoisin-Chatelans;38460;38010;45.75;5.283333;2.05
+Lyon;38;Isère;Grenoble;6;Anthon;38280;38011;45.8;5.166667;2.3
+Lyon;38;Isère;Grenoble;6;Aoste;38490;38012;45.583333;5.6;1.23
+Lyon;38;Isère;Grenoble;6;Arandon;38510;38014;45.716667;5.433333;1.89
+Lyon;38;Isère;Grenoble;6;Bourgoin-Jallieu;38300;38053;45,59;5,28; 
+Lyon;38;Isère;Grenoble;6;Bouvesse-Quirieu;38390;38054;45.8;5.4;2.3
+Lyon;38;Isère;Grenoble;6;Brangues;38510;38055;45.7;5.533333;1.8
+Lyon;38;Isère;Grenoble;6;Cessieu;38110;38064;45.566667;5.366667;1.99
+Lyon;38;Isère;Grenoble;6;Chamagnieu;38460;38067;45.683333;5.166667;1.72
+Lyon;38;Isère;Grenoble;6;Charette;38390;38083;45.816667;5.366667;2.38
+Lyon;38;Isère;Grenoble;6;Charvieu-Chavagneux;38230;38085;;;
+Lyon;38;Isère;Grenoble;6;Chavanoz;38230;38097;45.783333;5.166667;2.21
+Lyon;38;Isère;Grenoble;6;Chimilin;38490;38104;45.583333;5.6;1.23
+Lyon;38;Isère;Grenoble;6;Chozeau;38460;38109;45.7;5.216667;1.8
+Lyon;38;Isère;Grenoble;6;Corbelin;38630;38124;45.6;5.55;1.31
+Lyon;38;Isère;Grenoble;6;Courtenay;38510;38135;45.733333;5.383333;1.97
+Lyon;38;Isère;Grenoble;6;Crémieu;38460;38138;45.716667;5.25;1.89
+Lyon;38;Isère;Grenoble;6;Creys-Mépieu;38510;38139;;;
+Lyon;38;Isère;Grenoble;6;Dizimieu;38460;38146;45.716667;5.3;1.89
+Lyon;38;Isère;Grenoble;6;Dolomieu;38110;38148;45.616667;5.5;1.45
+Lyon;38;Isère;Grenoble;6;Faverges-de-la-Tour;38110;38162;45.583333;5.516667;1.38
+Lyon;38;Isère;Grenoble;6;Fitilieu;38490;38165;45.55;5.566667;1.07
+Lyon;38;Isère;Grenoble;6;Frontonas;38290;38176;45.65;5.183333;1.56
+Lyon;38;Isère;Grenoble;6;Granieu;38490;38183;45.6;5.583333;1.37
+Lyon;38;Isère;Grenoble;6;Hières-sur-Amby;38118;38190;45.8;5.283333;2.3
+Lyon;38;Isère;Grenoble;6;Janneyrias;38280;38197;45.75;5.1;2.05
+Lyon;38;Isère;Grenoble;6;La Balme-les-Grottes;38390;38026;45.85;5.333333;2.54
+Lyon;38;Isère;Grenoble;6;La Bâtie-Montgascon;38110;38029;45.583333;5.533333;1.74
+Lyon;38;Isère;Grenoble;6;La Chapelle-de-la-Tour;38110;38076;45.583333;5.466667;1.23
+Lyon;38;Isère;Grenoble;6;La Tour-du-Pin;38110;38509;45.566667;5.45;1.15
+Lyon;38;Isère;Grenoble;6;Le Bouchage;38510;38050;45.666667;5.533333;1.64
+Lyon;38;Isère;Grenoble;6;Le Pont-de-Beauvoisin;38480;38315;45.533333;5.666667;0.98
+Lyon;38;Isère;Grenoble;6;Les Abrets;38490;38001;45.533333;5.583333;0.98
+Lyon;38;Isère;Grenoble;6;Les Avenières;38630;38022;45.633333;5.566667;1.48
+Lyon;38;Isère;Grenoble;6;Leyrieu;38460;38210;45.75;5.25;2.05
+Lyon;38;Isère;Grenoble;6;Montagnieu;38110;38246;45.516667;5.45;1.15
+Lyon;38;Isère;Grenoble;6;Montalieu-Vercieu;38390;38247;45.816667;5.4;2.38
+Lyon;38;Isère;Grenoble;6;Montcarra;38890;38250;45.616667;5.383333;1.39
+Lyon;38;Isère;Grenoble;6;Moras;38460;38260;;;
+Lyon;38;Isère;Grenoble;6;Morestel;38510;38261;45.666667;5.466667;1.64
+Lyon;38;Isère;Grenoble;6;Optevoz;38460;38282;45.75;5.333333;2.05
+Lyon;38;Isère;Grenoble;6;Panossas;38460;38294;45.683333;5.2;1.72
+Lyon;38;Isère;Grenoble;6;Parmilieu;38390;38295;45.833333;5.35;2.46
+Lyon;38;Isère;Grenoble;6;Passins;38510;38297;45.683333;5.433333;1.72
+Lyon;38;Isère;Grenoble;6;Pont-de-Chéruy;38230;38316;45.75;5.183333;2.05
+Lyon;38;Isère;Grenoble;6;Porcieu-Amblagnieu;38390;38320;45.833333;5.4;2.46
+Lyon;38;Isère;Grenoble;6;Pressins;38480;38323;45.516667;5.616667;1.17
+Lyon;38;Isère;Grenoble;6;Rochetoirin;38110;38341;45.583333;5.416667;1.23
+Lyon;38;Isère;Grenoble;6;Romagnieu;38480;38343;45.566667;5.633333;1.57
+Lyon;38;Isère;Grenoble;6;Ruy;38300;38348;45.583333;5.316667;1.23
+Lyon;38;Isère;Grenoble;6;Saint-Albin-de-Vaulserre;38480;38354;45.5;5.7;1.26
+Lyon;38;Isère;Grenoble;6;Saint-André-le-Gaz;38490;38357;45.55;5.533333;1.07
+Lyon;38;Isère;Grenoble;6;Saint-Baudille-de-la-Tour;38118;38365;45.783333;5.333333;2.21
+Lyon;38;Isère;Grenoble;6;Saint-Chef;38890;38374;45.633333;5.366667;1.48
+Lyon;38;Isère;Grenoble;6;Saint-Clair-de-la-Tour;38110;38377;45.566667;5.483333;1.15
+Lyon;38;Isère;Grenoble;6;Saint-Didier-de-la-Tour;38110;38381;45.55;5.483333;1.07
+Lyon;38;Isère;Grenoble;6;Sainte-Blandine;38110;38369;45.55;5.433333;1.07
+Lyon;38;Isère;Grenoble;6;Saint-Hilaire-de-Brens;38460;38392;45.666667;5.283333;1.64
+Lyon;38;Isère;Grenoble;6;Saint-Jean-d'Avelanne;38480;38398;45.5;5.666667;0.82
+Lyon;38;Isère;Grenoble;6;Saint-Jean-de-Soudain;38110;38401;45.566667;5.433333;1.15
+Lyon;38;Isère;Grenoble;6;Saint-Marcel-Bel-Accueil;38080;38415;45.65;5.233333;1.56
+Lyon;38;Isère;Grenoble;6;Saint-Martin-de-Vaulserre;38480;38420;45.483333;5.666667;0.96
+Lyon;38;Isère;Grenoble;6;Saint-Romain-de-Jalionas;38460;38451;45.75;5.216667;2.05
+Lyon;38;Isère;Grenoble;6;Saint-Savin;38300;38455;45.633333;5.3;1.61
+Lyon;38;Isère;Grenoble;6;Saint-Sorlin-de-Morestel;38510;38458;45.633333;5.483333;1.48
+Lyon;38;Isère;Grenoble;6;Saint-Victor-de-Cessieu;38110;38464;45.55;5.4;1.31
+Lyon;38;Isère;Grenoble;6;Saint-Victor-de-Morestel;38510;38465;45.7;5.5;1.8
+Lyon;38;Isère;Grenoble;6;Salagnon;38890;38467;45.666667;5.35;1.64
+Lyon;38;Isère;Grenoble;6;Sermérieu;38510;38483;45.666667;5.416667;1.64
+Lyon;38;Isère;Grenoble;6;Siccieu-Saint-Julien-et-Carisieu;38460;38488;;;
+Lyon;38;Isère;Grenoble;6;Soleymieu;38460;38494;45.716667;5.35;1.89
+Lyon;38;Isère;Grenoble;6;Tignieu-Jameyzieu;38230;38507;45.733333;5.183333;1.97
+Lyon;38;Isère;Grenoble;6;Torchefelon;38690;38508;45.516667;5.4;1.5
+Lyon;38;Isère;Grenoble;6;Trept;38460;38515;45.683333;5.316667;1.72
+Lyon;38;Isère;Grenoble;6;Vasselin;38890;38525;45.633333;5.45;1.56
+Lyon;38;Isère;Grenoble;6;Vénérieu;38460;38532;45.666667;5.283333;1.64
+Lyon;38;Isère;Grenoble;6;Vernas;38460;38535;;;
+Lyon;38;Isère;Grenoble;6;Vertrieu;38390;38539;45.866667;5.366667;2.62
+Lyon;38;Isère;Grenoble;6;Veyrins-Thuellin;38630;38541;;;
+Lyon;38;Isère;Grenoble;6;Veyssilieu;38460;38542;45.683333;5.216667;1.72
+Lyon;38;Isère;Grenoble;6;Vézeronce-Curtin;38510;38543;;;
+Lyon;38;Isère;Grenoble;6;Vignieu;38890;38546;45.633333;5.416667;1.48
+Lyon;38;Isère;Grenoble;6;Villemoirieu;38460;38554;45.716667;5.216667;1.89
+Lyon;38;Isère;Grenoble;6;Villette-d'Anthon;38280;38557;45.8;5.116667;2.3
+Lyon;38;Isère;Grenoble;7;Apprieu;38140;38013;45.4;5.5;1.27
+Lyon;38;Isère;Grenoble;7;Artas;38440;38015;45.533333;5.166667;1.15
+Lyon;38;Isère;Grenoble;7;Arzay;38260;38016;45.433333;5.166667;1.15
+Lyon;38;Isère;Grenoble;7;Badinières;38300;38024;45.5;5.3;1.16
+Lyon;38;Isère;Grenoble;7;Balbins;38260;38025;45.383333;5.216667;0.97
+Lyon;38;Isère;Grenoble;7;Beaufort;38270;38032;;;
+Lyon;38;Isère;Grenoble;7;Beauvoir-de-Marc;38440;38035;45.516667;5.083333;1.46
+Lyon;38;Isère;Grenoble;7;Belmont;38690;38038;;;
+Lyon;38;Isère;Grenoble;7;Bévenais;38690;38042;45.4;5.383333;0.64
+Lyon;38;Isère;Grenoble;7;Bilieu;38850;38043;45.45;5.55;0.96
+Lyon;38;Isère;Grenoble;7;Biol;38690;38044;;;
+Lyon;38;Isère;Grenoble;7;Bizonnes;38690;38046;45.45;5.366667;0.57
+Lyon;38;Isère;Grenoble;7;Blandin;38730;38047;45.466667;5.45;0.91
+Lyon;38;Isère;Grenoble;7;Bonnefamille;38090;38048;45.6;5.116667;1.42
+Lyon;38;Isère;Grenoble;7;Bossieu;38260;38049;45.416667;5.15;1.21
+Lyon;38;Isère;Grenoble;7;Bourgoin-Jallieu;38300;38053;45,59;5,28; 
+Lyon;38;Isère;Grenoble;7;Bressieux;38870;38056;45.316667;5.283333;0.75
+Lyon;38;Isère;Grenoble;7;Brézins;38590;38058;45.35;5.316667;1.8
+Lyon;38;Isère;Grenoble;7;Brion;38590;38060;45.3;5.333333;1.13
+Lyon;38;Isère;Grenoble;7;Burcin;38690;38063;45.433333;5.433333;0.77
+Lyon;38;Isère;Grenoble;7;Châbons;38690;38065;45.416667;5.433333;0.84
+Lyon;38;Isère;Grenoble;7;Champier;38260;38069;45.45;5.283333;1.34
+Lyon;38;Isère;Grenoble;7;Charavines;38850;38082;45.433333;5.516667;1.07
+Lyon;38;Isère;Grenoble;7;Chassignieu;38730;38089;45.5;5.5;0.84
+Lyon;38;Isère;Grenoble;7;Châteauvilain;38300;38091;;;
+Lyon;38;Isère;Grenoble;7;Châtenay;38980;38093;45.316667;5.233333;0.91
+Lyon;38;Isère;Grenoble;7;Châtonnay;38440;38094;45.483333;5.2;1.32
+Lyon;38;Isère;Grenoble;7;Chélieu;38730;38098;45.5;5.483333;0.82
+Lyon;38;Isère;Grenoble;7;Chèzeneuve;38300;38102;45.566667;5.216667;1.43
+Lyon;38;Isère;Grenoble;7;Colombe;38690;38118;45.4;5.45;1.24
+Lyon;38;Isère;Grenoble;7;Commelle;38260;38121;45.416667;5.216667;0.97
+Lyon;38;Isère;Grenoble;7;Crachier;38300;38136;45.55;5.233333;1.08
+Lyon;38;Isère;Grenoble;7;Culin;38300;38141;45.516667;5.25;1.07
+Lyon;38;Isère;Grenoble;7;Doissin;38730;38147;45.5;5.416667;1.75
+Lyon;38;Isère;Grenoble;7;Domarin;38300;38149;45.583333;5.25;1.23
+Lyon;38;Isère;Grenoble;7;Eclose;38300;38152;45.5;5.3;1.16
+Lyon;38;Isère;Grenoble;7;Eydoche;38690;38159;45.433333;5.333333;1.05
+Lyon;38;Isère;Grenoble;7;Faramans;38260;38161;45.383333;5.166667;1.15
+Lyon;38;Isère;Grenoble;7;Flachères;38690;38167;45.466667;5.316667;1.47
+Lyon;38;Isère;Grenoble;7;Four;38080;38172;45.583333;5.183333;1.4
+Lyon;38;Isère;Grenoble;7;Gillonnay;38260;38180;45.383333;5.283333;1.01
+Lyon;38;Isère;Grenoble;7;La Côte-Saint-André;38260;38130;45.383333;5.25;0.85
+Lyon;38;Isère;Grenoble;7;La Forteresse;38590;38171;45.3;5.4;1.36
+Lyon;38;Isère;Grenoble;7;La Frette;38260;38174;45.383333;5.35;2.06
+Lyon;38;Isère;Grenoble;7;La Verpillière;38290;38537;45.633333;5.15;1.48
+Lyon;38;Isère;Grenoble;7;Le Grand-Lemps;38690;38182;45.383333;5.416667;1.04
+Lyon;38;Isère;Grenoble;7;Lentiol;38270;38209;45.3;5.116667;1.81
+Lyon;38;Isère;Grenoble;7;Le Passage;38490;38296;45.516667;5.5;1.73
+Lyon;38;Isère;Grenoble;7;Le Pin;38730;38305;45.45;5.5;1.26
+Lyon;38;Isère;Grenoble;7;Les Eparres;38300;38156;45.533333;5.3;0.98
+Lyon;38;Isère;Grenoble;7;Lieudieu;38440;38211;45.466667;5.183333;1.13
+Lyon;38;Isère;Grenoble;7;L'Isle-d'Abeau;38080;38193;45.616667;5.233333;1.39
+Lyon;38;Isère;Grenoble;7;Longechenal;38690;38213;45.416667;5.333333;1.1
+Lyon;38;Isère;Grenoble;7;Marcilloles;38260;38218;45.333333;5.183333;1.11
+Lyon;38;Isère;Grenoble;7;Marcollin;38270;38219;45.3;5.083333;1.46
+Lyon;38;Isère;Grenoble;7;Marnans;38980;38221;45.3;5.233333;0.92
+Lyon;38;Isère;Grenoble;7;Maubec;38300;38223;45.566667;5.3;1.15
+Lyon;38;Isère;Grenoble;7;Meyrié;38300;38230;45.566667;5.283333;1.15
+Lyon;38;Isère;Grenoble;7;Meyrieu-les-Etangs;38440;38231;;;
+Lyon;38;Isère;Grenoble;7;Meyssiès;38440;38232;45.466667;5.05;1.58
+Lyon;38;Isère;Grenoble;7;Montfalcon;38940;38255;45.25;5.166667;1.15
+Lyon;38;Isère;Grenoble;7;Montrevel;38690;38257;45.466667;5.4;0.66
+Lyon;38;Isère;Grenoble;7;Mottier;38260;38267;45.416667;5.316667;1.57
+Lyon;38;Isère;Grenoble;7;Nantoin;38260;38274;45.433333;5.266667;0.97
+Lyon;38;Isère;Grenoble;7;Nivolas-Vermelle;38300;38276;45.55;5.3;1.07
+Lyon;38;Isère;Grenoble;7;Ornacieux;38260;38284;45.4;5.216667;0.97
+Lyon;38;Isère;Grenoble;7;Oyeu;38690;38287;45.416667;5.466667;1.41
+Lyon;38;Isère;Grenoble;7;Pajay;38260;38291;45.366667;5.133333;1.43
+Lyon;38;Isère;Grenoble;7;Panissage;38730;38293;45.483333;5.45;0.74
+Lyon;38;Isère;Grenoble;7;Penol;38260;38300;45.383333;5.2;1.03
+Lyon;38;Isère;Grenoble;7;Plan;38590;38308;45.316667;5.4;1.22
+Lyon;38;Isère;Grenoble;7;Roche;38090;38339;;;
+Lyon;38;Isère;Grenoble;7;Royas;38440;38346;45.5;5.1;1.4
+Lyon;38;Isère;Grenoble;7;Roybon;38940;38347;45.25;5.25;1.5
+Lyon;38;Isère;Grenoble;7;Saint-Agnin-sur-Bion;38300;38351;45.533333;5.25;0.98
+Lyon;38;Isère;Grenoble;7;Saint-Alban-de-Roche;38300;38352;45.6;5.233333;1.41
+Lyon;38;Isère;Grenoble;7;Saint-Clair-sur-Galaure;38940;38379;45.25;5.15;1.21
+Lyon;38;Isère;Grenoble;7;Saint-Didier-de-Bizonnes;38690;38380;45.45;5.35;0.8
+Lyon;38;Isère;Grenoble;7;Sainte-Anne-sur-Gervonde;38440;38358;45.5;5.233333;1.84
+Lyon;38;Isère;Grenoble;7;Saint-Etienne-de-Saint-Geoirs;38590;38384;45.333333;5.35;0.62
+Lyon;38;Isère;Grenoble;7;Saint-Geoirs;38590;38387;45.316667;5.35;0.48
+Lyon;38;Isère;Grenoble;7;Saint-Hilaire-de-la-Côte;38260;38393;45.383333;5.316667;1.54
+Lyon;38;Isère;Grenoble;7;Saint-Jean-de-Bournay;38440;38399;45.483333;5.133333;1.28
+Lyon;38;Isère;Grenoble;7;Saint-Michel-de-Saint-Geoirs;38590;38427;45.3;5.366667;0.62
+Lyon;38;Isère;Grenoble;7;Saint-Ondras;38490;38434;45.516667;5.533333;1.05
+Lyon;38;Isère;Grenoble;7;Saint-Pierre-de-Bressieux;38870;38440;45.316667;5.283333;0.75
+Lyon;38;Isère;Grenoble;7;Saint-Quentin-Fallavier;38070;38449;45.633333;5.116667;1.48
+Lyon;38;Isère;Grenoble;7;Saint-Siméon-de-Bressieux;38870;38457;45.333333;5.25;1.5
+Lyon;38;Isère;Grenoble;7;Sardieu;38260;38473;45.366667;5.2;1.03
+Lyon;38;Isère;Grenoble;7;Satolas-et-Bonce;38290;38475;45.7;5.133333;1.8
+Lyon;38;Isère;Grenoble;7;Savas-Mépin;38440;38476;45.5;5.05;1.58
+Lyon;38;Isère;Grenoble;7;Semons;38260;38479;45.433333;5.2;1.03
+Lyon;38;Isère;Grenoble;7;Sérézin-de-la-Tour;38300;38481;45.55;5.35;1.31
+Lyon;38;Isère;Grenoble;7;Sillans;38590;38490;45.333333;5.383333;0.83
+Lyon;38;Isère;Grenoble;7;Succieu;38300;38498;45.533333;5.333333;1.06
+Lyon;38;Isère;Grenoble;7;Thodure;38260;38505;45.316667;5.166667;1.48
+Lyon;38;Isère;Grenoble;7;Tramolé;38300;38512;45.516667;5.266667;0.9
+Lyon;38;Isère;Grenoble;7;Valencogne;38730;38520;45.5;5.533333;1.75
+Lyon;38;Isère;Grenoble;7;Vaulx-Milieu;38090;38530;45.616667;5.183333;1.39
+Lyon;38;Isère;Grenoble;7;Villefontaine;38090;38553;45.616667;5.15;1.39
+Lyon;38;Isère;Grenoble;7;Villeneuve-de-Marc;38440;38555;45.483333;5.1;1.4
+Lyon;38;Isère;Grenoble;7;Virieu;38730;38560;45.483333;5.466667;0.74
+Lyon;38;Isère;Grenoble;7;Viriville;38980;38561;45.316667;5.2;1.35
+Lyon;38;Isère;Grenoble;8;Agnin;38150;38003;45.333333;4.866667;2.26
+Lyon;38;Isère;Grenoble;8;Anjou;38150;38009;45.35;4.883333;2.2
+Lyon;38;Isère;Grenoble;8;Assieu;38150;38017;45.416667;4.866667;2.26
+Lyon;38;Isère;Grenoble;8;Auberives-sur-Varèze;38550;38019;45.433333;4.833333;2.38
+Lyon;38;Isère;Grenoble;8;Beaurepaire;38270;38034;45.333333;5.05;1.58
+Lyon;38;Isère;Grenoble;8;Bellegarde-Poussieu;38270;38037;45.383333;4.95;1.95
+Lyon;38;Isère;Grenoble;8;Bougé-Chambalud;38150;38051;45.333333;4.9;2.13
+Lyon;38;Isère;Grenoble;8;Châlons;38122;38066;45.45;4.933333;2.01
+Lyon;38;Isère;Grenoble;8;Chanas;38150;38072;45.3;4.816667;2.44
+Lyon;38;Isère;Grenoble;8;Charantonnay;38790;38081;45.533333;5.1;1.4
+Lyon;38;Isère;Grenoble;8;Chasse-sur-Rhône;38670;38087;45.566667;4.816667;2.44
+Lyon;38;Isère;Grenoble;8;Cheyssieu;38550;38101;45.433333;4.85;2.32
+Lyon;38;Isère;Grenoble;8;Chonas-l'Amballan;38121;38107;45.466667;4.816667;2.44
+Lyon;38;Isère;Grenoble;8;Chuzelles;38200;38110;45.583333;4.883333;2.2
+Lyon;38;Isère;Grenoble;8;Clonas-sur-Varèze;38550;38114;45.416667;4.8;2.5
+Lyon;38;Isère;Grenoble;8;Cour-et-Buis;38122;38134;45.433333;5;1.77
+Lyon;38;Isère;Grenoble;8;Diémoz;38790;38144;45.583333;5.1;1.4
+Lyon;38;Isère;Grenoble;8;Estrablin;38780;38157;45.516667;4.966667;1.89
+Lyon;38;Isère;Grenoble;8;Eyzin-Pinet;38780;38160;45.466667;4.983333;1.83
+Lyon;38;Isère;Grenoble;8;Grenay;38540;38184;45.666667;5.083333;1.64
+Lyon;38;Isère;Grenoble;8;Heyrieux;38540;38189;45.633333;5.05;1.58
+Lyon;38;Isère;Grenoble;8;Jarcieu;38270;38198;45.333333;4.95;1.95
+Lyon;38;Isère;Grenoble;8;Jardin;38200;38199;45.5;4.916667;2.07
+Lyon;38;Isère;Grenoble;8;La Chapelle-de-Surieu;38150;38077;45.4;4.9;2.13
+Lyon;38;Isère;Grenoble;8;Le Péage-de-Roussillon;38550;38298;45.366667;4.8;2.5
+Lyon;38;Isère;Grenoble;8;Les Côtes-d'Arey;38138;38131;;;
+Lyon;38;Isère;Grenoble;8;Les Roches-de-Condrieu;38370;38340;45.45;4.766667;2.62
+Lyon;38;Isère;Grenoble;8;Luzinay;38200;38215;45.583333;4.95;1.95
+Lyon;38;Isère;Grenoble;8;Moidieu-Détourbe;38440;38238;45.516667;5.016667;1.7
+Lyon;38;Isère;Grenoble;8;Moissieu-sur-Dolon;38270;38240;45.383333;4.983333;1.83
+Lyon;38;Isère;Grenoble;8;Monsteroux-Milieu;38122;38244;45.433333;4.95;1.95
+Lyon;38;Isère;Grenoble;8;Montseveroux;38122;38259;45.433333;4.966667;1.89
+Lyon;38;Isère;Grenoble;8;Oytier-Saint-Oblas;38780;38288;45.566667;5.016667;1.7
+Lyon;38;Isère;Grenoble;8;Pact;38270;38290;45.35;4.983333;1.83
+Lyon;38;Isère;Grenoble;8;Pisieu;38270;38307;45.383333;5.05;1.58
+Lyon;38;Isère;Grenoble;8;Pommier-de-Beaurepaire;38260;38311;45.4;5.116667;1.64
+Lyon;38;Isère;Grenoble;8;Pont-Evêque;38780;38318;45.533333;4.916667;2.07
+Lyon;38;Isère;Grenoble;8;Primarette;38270;38324;45.4;5.033333;1.64
+Lyon;38;Isère;Grenoble;8;Revel-Tourdan;38270;38335;45.383333;5.033333;1.64
+Lyon;38;Isère;Grenoble;8;Reventin-Vaugris;38121;38336;45.466667;4.833333;2.38
+Lyon;38;Isère;Grenoble;8;Roussillon;38150;38344;45.366667;4.816667;2.44
+Lyon;38;Isère;Grenoble;8;Sablons;38550;38349;45.316667;4.766667;2.62
+Lyon;38;Isère;Grenoble;8;Saint-Alban-du-Rhône;38370;38353;45.433333;4.766667;2.62
+Lyon;38;Isère;Grenoble;8;Saint-Barthélemy;38270;38363;45.35;5.075;-1
+Lyon;38;Isère;Grenoble;8;Saint-Clair-du-Rhône;38370;38378;45.433333;4.783333;2.56
+Lyon;38;Isère;Grenoble;8;Saint-Georges-d'Espéranche;38790;38389;45.55;5.066667;1.52
+Lyon;38;Isère;Grenoble;8;Saint-Julien-de-l'Herms;38122;38406;45.433333;5.1;2.27
+Lyon;38;Isère;Grenoble;8;Saint-Just-Chaleyssin;38540;38408;45.583333;5;1.77
+Lyon;38;Isère;Grenoble;8;Saint-Maurice-l'Exil;38550;38425;45.4;4.783333;2.56
+Lyon;38;Isère;Grenoble;8;Saint-Prim;38370;38448;45.45;4.8;2.5
+Lyon;38;Isère;Grenoble;8;Saint-Romain-de-Surieu;38150;38452;45.383333;4.883333;2.2
+Lyon;38;Isère;Grenoble;8;Saint-Sorlin-de-Vienne;38200;38459;;;
+Lyon;38;Isère;Grenoble;8;Salaise-sur-Sanne;38150;38468;45.333333;4.816667;2.44
+Lyon;38;Isère;Grenoble;8;Septème;38780;38480;45.55;5.016667;1.7
+Lyon;38;Isère;Grenoble;8;Serpaize;38200;38484;45.566667;4.916667;2.07
+Lyon;38;Isère;Grenoble;8;Seyssuel;38200;38487;45.566667;4.85;2.32
+Lyon;38;Isère;Grenoble;8;Sonnay;38150;38496;45.35;4.9;2.13
+Lyon;38;Isère;Grenoble;8;Valencin;38540;38519;45.616667;5.016667;1.7
+Lyon;38;Isère;Grenoble;8;Vernioz;38150;38536;45.433333;4.883333;2.2
+Lyon;38;Isère;Grenoble;8;Vienne;38200;38544;45.516667;4.866667;2.26
+Lyon;38;Isère;Grenoble;8;Ville-sous-Anjou;38150;38556;45.366667;4.85;2.32
+Lyon;38;Isère;Grenoble;8;Villette-de-Vienne;38200;38558;45.583333;4.9;2.13
+Lyon;38;Isère;Grenoble;9;Auberives-en-Royans;38680;38018;45.066667;5.3;1.36
+Lyon;38;Isère;Grenoble;9;Beaucroissant;38140;38030;45.333333;5.466667;0.79
+Lyon;38;Isère;Grenoble;9;Beaulieu;38470;38033;45.2;5.383333;0.66
+Lyon;38;Isère;Grenoble;9;Beauvoir-en-Royans;38160;38036;;;
+Lyon;38;Isère;Grenoble;9;Bessins;38160;38041;45.2;5.266667;0.9
+Lyon;38;Isère;Grenoble;9;Chantesse;38470;38074;45.233333;5.45;0.99
+Lyon;38;Isère;Grenoble;9;Charnècles;38140;38084;45.35;5.533333;1.16
+Lyon;38;Isère;Grenoble;9;Chasselay;38470;38086;45.25;5.333333;1.71
+Lyon;38;Isère;Grenoble;9;Châtelus;38680;38092;45.05;5.366667;1.39
+Lyon;38;Isère;Grenoble;9;Chatte;38160;38095;45.15;5.283333;0.9
+Lyon;38;Isère;Grenoble;9;Chevrières;38160;38099;45.183333;5.3;0.74
+Lyon;38;Isère;Grenoble;9;Chirens;38850;38105;45.416667;5.55;0.96
+Lyon;38;Isère;Grenoble;9;Choranche;38680;38108;45.066667;5.4;1.31
+Lyon;38;Isère;Grenoble;9;Cognin-les-Gorges;38470;38117;45.166667;5.416667;1.15
+Lyon;38;Isère;Grenoble;9;Coublevie;38500;38133;45.35;5.616667;0.85
+Lyon;38;Isère;Grenoble;9;Cras;38210;38137;45.266667;5.45;1.11
+Lyon;38;Isère;Grenoble;9;Dionay;38160;38145;45.2;5.216667;1.63
+Lyon;38;Isère;Grenoble;9;Izeaux;38140;38194;45.333333;5.416667;1.98
+Lyon;38;Isère;Grenoble;9;Izeron;38160;38195;45.15;5.383333;1.45
+Lyon;38;Isère;Grenoble;9;La Buisse;38500;38061;45.333333;5.616667;1.16
+Lyon;38;Isère;Grenoble;9;L'Albenc;38470;38004;45.216667;5.433333;0.58
+Lyon;38;Isère;Grenoble;9;La Murette;38140;38270;45.366667;5.533333;1.21
+Lyon;38;Isère;Grenoble;9;La Rivière;38210;38338;45.233333;5.516667;1.06
+Lyon;38;Isère;Grenoble;9;La Sône;38840;38495;45.116667;5.283333;1.32
+Lyon;38;Isère;Grenoble;9;Malleval;38470;38216;;;
+Lyon;38;Isère;Grenoble;9;Moirans;38430;38239;45.333333;5.566667;1
+Lyon;38;Isère;Grenoble;9;Montagne;38160;38245;45.15;5.2;1.8
+Lyon;38;Isère;Grenoble;9;Montaud;38210;38248;45.266667;5.566667;1.46
+Lyon;38;Isère;Grenoble;9;Morette;38210;38263;45.283333;5.45;1.08
+Lyon;38;Isère;Grenoble;9;Murinais;38160;38272;45.216667;5.316667;1
+Lyon;38;Isère;Grenoble;9;Notre-Dame-de-l'Osier;38470;38278;45.233333;5.4;0.49
+Lyon;38;Isère;Grenoble;9;Poliénas;38210;38310;45.25;5.466667;0.96
+Lyon;38;Isère;Grenoble;9;Pommiers-la-Placette;38340;38312;45.316667;5.65;1
+Lyon;38;Isère;Grenoble;9;Pont-en-Royans;38680;38319;45.066667;5.35;1.31
+Lyon;38;Isère;Grenoble;9;Presles;38680;38322;45.083333;5.383333;1.23
+Lyon;38;Isère;Grenoble;9;Quincieu;38470;38330;45.266667;5.383333;1.14
+Lyon;38;Isère;Grenoble;9;Réaumont;38140;38331;45.366667;5.516667;0.8
+Lyon;38;Isère;Grenoble;9;Renage;38140;38332;45.333333;5.483333;0.54
+Lyon;38;Isère;Grenoble;9;Rencurel;38680;38333;45.1;5.4722;-1
+Lyon;38;Isère;Grenoble;9;Rives;38140;38337;45.35;5.5;0.29
+Lyon;38;Isère;Grenoble;9;Rovon;38470;38345;45.2;5.466667;1.36
+Lyon;38;Isère;Grenoble;9;Saint-André-en-Royans;38680;38356;45.083333;5.35;1.23
+Lyon;38;Isère;Grenoble;9;Saint-Antoine-l'Abbaye;38160;38359;;;
+Lyon;38;Isère;Grenoble;9;Saint-Appolinard;38160;38360;;;
+Lyon;38;Isère;Grenoble;9;Saint-Aupre;38960;38362;45.383333;5.666667;1
+Lyon;38;Isère;Grenoble;9;Saint-Blaise-du-Buis;38140;38368;45.366667;5.516667;0.8
+Lyon;38;Isère;Grenoble;9;Saint-Bonnet-de-Chavagne;38840;38370;45.133333;5.233333;0.98
+Lyon;38;Isère;Grenoble;9;Saint-Cassien;38500;38373;45.35;5.55;1.54
+Lyon;38;Isère;Grenoble;9;Saint-Etienne-de-Crossey;38960;38383;45.366667;5.633333;1
+Lyon;38;Isère;Grenoble;9;Saint-Gervais;38470;38390;45.2;5.483333;1.71
+Lyon;38;Isère;Grenoble;9;Saint-Hilaire-du-Rosier;38840;38394;45.1;5.25;1.15
+Lyon;38;Isère;Grenoble;9;Saint-Jean-de-Moirans;38430;38400;45.333333;5.583333;1
+Lyon;38;Isère;Grenoble;9;Saint-Julien-de-Raz;38134;38407;;;
+Lyon;38;Isère;Grenoble;9;Saint-Just-de-Claix;38680;38409;45.066667;5.283333;1.7
+Lyon;38;Isère;Grenoble;9;Saint-Lattier;38840;38410;45.083333;5.2;1.5
+Lyon;38;Isère;Grenoble;9;Saint-Marcellin;38160;38416;45.15;5.316667;0.9
+Lyon;38;Isère;Grenoble;9;Saint-Nicolas-de-Macherin;38500;38432;45.383333;5.6;0.96
+Lyon;38;Isère;Grenoble;9;Saint-Paul-d'Izeaux;38140;38437;45.316667;5.433333;1.76
+Lyon;38;Isère;Grenoble;9;Saint-Pierre-de-Chérennes;38160;38443;45.116667;5.366667;1.4
+Lyon;38;Isère;Grenoble;9;Saint-Quentin-sur-Isère;38210;38450;45.283333;5.55;1.08
+Lyon;38;Isère;Grenoble;9;Saint-Romans;38160;38453;45.116667;5.316667;1.07
+Lyon;38;Isère;Grenoble;9;Saint-Sauveur;38160;38454;45.15;5.35;0.9
+Lyon;38;Isère;Grenoble;9;Saint-Vérand;38160;38463;;;
+Lyon;38;Isère;Grenoble;9;Serre-Nerpol;38470;38275;;;
+Lyon;38;Isère;Grenoble;9;Têche;38470;38500;45.183333;5.383333;0.92
+Lyon;38;Isère;Grenoble;9;Tullins;38210;38517;45.3;5.483333;0.57
+Lyon;38;Isère;Grenoble;9;Varacieux;38470;38523;45.233333;5.333333;1.6
+Lyon;38;Isère;Grenoble;9;Vatilieu;38470;38526;45.25;5.416667;0.7
+Lyon;38;Isère;Grenoble;9;Vinay;38470;38559;45.216667;5.4;0.57
+Lyon;38;Isère;Grenoble;9;Voiron;38500;38563;45.366667;5.583333;0.5
+Lyon;38;Isère;Grenoble;9;Voreppe;38340;38565;45.3;5.633333;1
+Lyon;38;Isère;Grenoble;9;Vourey;38210;38566;45.316667;5.516667;0.88
